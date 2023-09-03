@@ -6,7 +6,6 @@ This code is the implementation of a 15-piece puzzle with the A* algorithm, in w
 https://github.com/zahrahash
 https://github.com/ParsaMemarzade
 [Zahra Hashemi](https://github.com/zahrahash)
-
 [Parsa Memarzadeh](https://github.com/ParsaMemarzade)
 
 
